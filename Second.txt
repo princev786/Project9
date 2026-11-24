@@ -1,3 +1,7 @@
 hiiiiii
 
+<<<<<<< HEAD
 done by main
+=======
+done by dev1
+>>>>>>> de09c47 (done by  dev1)
